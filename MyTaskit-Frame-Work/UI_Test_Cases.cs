@@ -4,11 +4,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace MyTaskit_Frame_Work
 {
     [TestClass]
-    public class UnitTest1
+    public class UI_Test_Cases
     {
         [TestMethod]
-        public void TestMethod1()
+        public void All_Users_Can_Login()
         {
+
         }
     }
 }
